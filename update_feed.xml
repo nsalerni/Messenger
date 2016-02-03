@@ -11,9 +11,9 @@
                 <!-- http://www.goofyapp.com/version/2.2.html -->
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 03 Feb 2016</pubDate>
-            <link><!-- http://www.goofyapp.com/version/2.2.html --></link>
+            <link> <!-- http://www.goofyapp.com/version/2.2.html --> </link>
             <enclosure url="https://github.com/nsalerni/"
-                sparkle:version="961"
+                sparkle:version="10"
                 sparkle:shortVersionString="1.0"
                 length="3381354"
                 type="application/octet-stream" />
