@@ -6,7 +6,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0</title>
             <sparkle:releaseNotesLink>
                 <!-- http://www.goofyapp.com/version/2.2.html -->
             </sparkle:releaseNotesLink>
@@ -14,7 +14,7 @@
             <link><!-- http://www.goofyapp.com/version/2.2.html --></link>
             <enclosure url="https://github.com/nsalerni/"
                 sparkle:version="961"
-                sparkle:shortVersionString="1.0.0"
+                sparkle:shortVersionString="1.0"
                 length="3381354"
                 type="application/octet-stream" />
         </item>
