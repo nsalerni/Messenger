@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Messenger Changelog</title>
+        <link>https://raw.githubusercontent.com/nsalerni/messenger/master/update_feed.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:releaseNotesLink>
+                <!-- http://www.goofyapp.com/version/2.2.html -->
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 03 Feb 2016</pubDate>
+            <link><!-- http://www.goofyapp.com/version/2.2.html --></link>
+            <enclosure url="https://github.com/nsalerni/"
+                sparkle:version="961"
+                sparkle:shortVersionString="1.0.0"
+                length="3381354"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
