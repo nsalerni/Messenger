@@ -12,7 +12,7 @@
             </sparkle:releaseNotesLink>
             <link>http://www.thecsguy.com/updates</link>
             <pubDate>Wed, 03 Feb 2016</pubDate>
-            <enclosure url="https://github.com/nsalerni/"
+            <enclosure url="https://github.com/nsalerni/Messenger/tree/master/release/messenger/messenger.zip"
                 sparkle:version="10"
                 sparkle:shortVersionString="1.0"
                 length="3381354"
