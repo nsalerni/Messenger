@@ -8,9 +8,9 @@
         <item>
             <title>Version 1.0</title>
             <sparkle:releaseNotesLink>
-                http://www.thecsguy.com/updates.html
+               http://www.thecsguy.com/updates
             </sparkle:releaseNotesLink>
-            <link>http://www.thecsguy.com/updates.html</link>
+            <link>http://www.thecsguy.com/updates</link>
             <pubDate>Wed, 03 Feb 2016</pubDate>
             <enclosure url="https://github.com/nsalerni/"
                 sparkle:version="10"
