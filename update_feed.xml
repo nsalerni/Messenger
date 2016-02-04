@@ -13,7 +13,7 @@
             <link>http://www.thecsguy.com/updates</link>
             <pubDate>Wed, 03 Feb 2016</pubDate>
             <enclosure url="https://github.com/nsalerni/Messenger/tree/master/release/messenger/Messenger.app"
-                sparkle:version="10"
+                sparkle:version="9"
                 sparkle:shortVersionString="1.0"
                 length="3381354"
                 type="application/octet-stream" />
